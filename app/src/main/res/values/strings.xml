@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">simga</string>
+    <string-array name='marka'>
+        <item>Volswagen</item>
+        <item>Audi</item>
+        <item>Skoda</item>
+    </string-array>
+
+    <string-array name="model_Volswagen">
+        <item>Pasat</item>
+        <item>Bora</item>
+        <item>Golf</item>
+    </string-array>
+    <string-array name="model_Audi">
+        <item>a1</item>
+        <item>a2</item>
+        <item>a3</item>
+    </string-array>
+    <string-array name="model_Skoda">
+        <item>Octavia</item>
+        <item>Fabia</item>
+        <item>SuperB</item>
+    </string-array>
+</resources>
